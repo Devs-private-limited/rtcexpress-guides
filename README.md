@@ -10,6 +10,7 @@ production configuration, customer information, or private SDK packages.
 ## Start here
 
 - [Voice, video, and chat API integration guide](https://rtc.devsquarelabs.com/guides/voice-video-chat-api)
+- [WebRTC video calling API integration guide](https://rtc.devsquarelabs.com/guides/webrtc-video-calling-api)
 - [JavaScript voice calling tutorial](https://rtc.devsquarelabs.com/tutorials/javascript-voice-calling)
 - [JavaScript video calling tutorial](https://rtc.devsquarelabs.com/tutorials/javascript-video-calling)
 - [JavaScript in-app chat tutorial](https://rtc.devsquarelabs.com/tutorials/javascript-in-app-chat)
