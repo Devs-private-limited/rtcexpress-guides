@@ -25,12 +25,22 @@ production configuration, customer information, or private SDK packages.
 4. Join the authorized room before enabling chat or call controls.
 5. Test two real devices, permissions, reconnects, and network changes before launch.
 
-## SDK availability
+## Install the SDKs
 
-The public npm package is not available yet. RTCExpress supplies local SDK
-packages as part of integration access. Contact
-[support@devsquarelabs.com](mailto:support@devsquarelabs.com) for access or
-implementation help.
+| Platform | Install | Package |
+|---|---|---|
+| Web (JavaScript/TypeScript) | `npm install rtcexpress` | [npm](https://www.npmjs.com/package/rtcexpress) |
+| Flutter | `flutter pub add rtcexpress` | [pub.dev](https://pub.dev/packages/rtcexpress) |
+| React Native | `npm install rtcexpress-react-native` | [npm](https://www.npmjs.com/package/rtcexpress-react-native) |
+
+Flutter and React Native support Android today; iOS is experimental. Platform
+guides: [Web](https://rtc.devsquarelabs.com/sdk/web),
+[Flutter](https://rtc.devsquarelabs.com/sdk/flutter),
+[React Native](https://rtc.devsquarelabs.com/sdk/react-native),
+[Android](https://rtc.devsquarelabs.com/sdk/android).
+
+For implementation help, contact
+[support@devsquarelabs.com](mailto:support@devsquarelabs.com).
 
 ## Security
 
