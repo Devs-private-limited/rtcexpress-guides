@@ -28,6 +28,10 @@ production configuration, customer information, or private SDK packages.
 3. Issue a short-lived, room-scoped token to the client.
 4. Join the authorized room before enabling chat or call controls.
 5. Test two real devices, permissions, reconnects, and network changes before launch.
+6. To ring a phone when your app is closed, create **your own Firebase project**
+   (and an APNs key for iOS), upload its service-account key in the RTCExpress
+   console, and register each device after login.
+   [Push notification setup](https://rtc.devsquarelabs.com/docs#docs-push)
 
 ## Install the SDKs
 
